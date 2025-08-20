@@ -70,7 +70,7 @@ python main.py
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="blank_states_img.gif" alt="Game Map" width="400"/>
+  <img src="screenshot.png" alt="Game Map" width="400"/>
 </p>
 
 ---
